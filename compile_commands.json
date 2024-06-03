@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/shane/bayesian/build",
+  "command": "/nix/store/8mjb3ziimfi3rki71q4s0916xkm4cm5p-gcc-wrapper-13.2.0/bin/g++  -I/nix/store/jivykd5ixdpc2ydz1amrsi2rk0gnx16k-source/include -isystem /nix/store/nkz72xl7ccghkvdn7lq75azf3vkfxgyj-eigen-3.4.0/include/eigen3 -std=gnu++17 -Wreturn-type -o CMakeFiles/bayesian.dir/main.cpp.o -c /home/shane/bayesian/main.cpp",
+  "file": "/home/shane/bayesian/main.cpp",
+  "output": "CMakeFiles/bayesian.dir/main.cpp.o"
+}
+]
