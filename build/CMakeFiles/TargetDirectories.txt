@@ -1,3 +1,0 @@
-/home/shane/bayesian/build/CMakeFiles/bayesian.dir
-/home/shane/bayesian/build/CMakeFiles/edit_cache.dir
-/home/shane/bayesian/build/CMakeFiles/rebuild_cache.dir
